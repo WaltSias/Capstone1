@@ -1,0 +1,10 @@
+div,
+img {
+    border-radius: 50%;
+    text-align: left;
+    float: both;
+}
+
+h6 {
+    padding-left: 17px
+}
