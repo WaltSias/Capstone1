@@ -43,3 +43,9 @@ ul.nav li a.active {
 ul.nav li.right {
     float: right;
 }
+
+a {
+    font-size: small;
+    font-family: serif;
+    text-decoration: underline;
+}
