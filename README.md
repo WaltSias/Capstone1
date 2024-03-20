@@ -19,13 +19,14 @@ It contains four pages:
 
 ## Roadmap
 - [x] Make a Branch
-- [] Html
-- [] CSS
+- [x] Html
+- [x] CSS
 - [] JS
-- [] Bootstrap
-- [] Image Folder
-- [] About Me
-- [] Gallery
+- [x] Bootstrap
+- [x] Image Folder
+- [x] About Me
+- [x] Gallery
+- [x] Added images to Gallery Html file
 
 
  ## Wireframe
