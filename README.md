@@ -27,11 +27,11 @@ It contains four pages:
 - [x] About Me
 - [x] Gallery
 - [x] Added images to Gallery Html file
-
+- [x] added cards to favorite page 
 
  ## Wireframe
  ![wireframe](img/IMG_0182.jpeg)
- 
+
 
 
 Contact
