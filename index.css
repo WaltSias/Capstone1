@@ -5,6 +5,8 @@ img {
     float: both;
 }
 
+
+
 h6 {
     padding-left: 17px
 }
@@ -14,7 +16,6 @@ body,
 margin: 0;
 }
 
-main {}
 
 ul.nav {
     list-style-type: none;
@@ -47,16 +48,15 @@ ul.nav li.right {
     float: right;
 }
 
-a {
-    font-size: smaller;
-
-}
 
 .flip-card {
     background-color: transparent;
     width: 300px;
     height: 300px;
     perspective: 1000px;
+    float: both;
+    padding-left: 160px;
+
 }
 
 .flip-card-inner {
@@ -91,4 +91,5 @@ a {
     background-color: #2980b9;
     color: white;
     transform: rotateY(180deg);
+    font-size: 10px;
 }

@@ -29,6 +29,7 @@ It contains four pages:
 - [x] Added images to Gallery Html file
 - [x] added cards to favorite page 
 - [x] added flip card for main page with paragraph. and background image.
+- [x] added links to favorites page
 
  ## Wireframe
  ![wireframe](img/IMG_0182.jpeg)
