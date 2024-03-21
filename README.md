@@ -28,6 +28,7 @@ It contains four pages:
 - [x] Gallery
 - [x] Added images to Gallery Html file
 - [x] added cards to favorite page 
+- [x] added flip card for main page with paragraph. and background image.
 
  ## Wireframe
  ![wireframe](img/IMG_0182.jpeg)
@@ -43,5 +44,6 @@ Contact
 - [Bootstrap](https://getbootstrap.com/)
 - [w3schoools CSS](https://www.w3schools.com/cssref)
 - [w3schools JS](https://www.w3schools.com/js/)
+- [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat)
 - Robert McCreary - Classmate
 - Louis Perkins - Classmate
