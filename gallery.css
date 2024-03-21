@@ -59,3 +59,9 @@ border {
     float: right;
     font-family: monospace;
 }
+
+#rio,
+#rio2,
+#tennis1 {
+    border-radius: 0%;
+}

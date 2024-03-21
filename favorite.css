@@ -42,3 +42,12 @@ ul.nav li a.active {
 ul.nav li.right {
     float: right;
 }
+
+#fav1,
+#fav2 {
+    border-radius: 0%;
+}
+
+aside {
+    float: right;
+}
