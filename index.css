@@ -1,0 +1,53 @@
+div,
+img {
+    border-radius: 50%;
+    text-align: left;
+    float: both;
+}
+
+h6 {
+    padding-left: 17px
+}
+
+body,
+{
+margin: 0;
+}
+
+main {}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgray;
+}
+
+ul.nav li {
+    float: left;
+}
+
+ul.nav li a {
+    display: blo color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.nav li a:hover:not(.active) {
+    background-color: grey;
+}
+
+ul.nav li a.active {
+    background-color: lightgreen;
+}
+
+ul.nav li.right {
+    float: right;
+}
+
+a {
+    font-size: smaller;
+
+}

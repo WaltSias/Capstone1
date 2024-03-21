@@ -18,13 +18,15 @@ It contains four pages:
 * JavaScript
 
 ## Roadmap
-- [] Html
-- [] CSS
+- [x] Make a Branch
+- [x] Html
+- [x] CSS
 - [] JS
-- [] Bootstrap
-- [] Image Folder
-- [] About Me
-- [] Gallery
+- [x] Bootstrap
+- [x] Image Folder
+- [x] About Me
+- [x] Gallery
+- [x] Added images to Gallery Html file
 
 
  ## Wireframe
