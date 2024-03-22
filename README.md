@@ -9,7 +9,7 @@ It contains four pages:
 - About Me
 - Gallery
 - Favorite Things
-- Logo/Links
+- Store 
 
 ## Built With
 * HTML
@@ -30,6 +30,7 @@ It contains four pages:
 - [x] added cards to favorite page 
 - [x] added flip card for main page with paragraph. and background image.
 - [x] added links to favorites page
+- [x] Store for rackets
 
  ## Wireframe
  ![wireframe](img/IMG_0182.jpeg)
