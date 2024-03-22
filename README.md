@@ -31,6 +31,8 @@ It contains four pages:
 - [x] added flip card for main page with paragraph. and background image.
 - [x] added links to favorites page
 - [x] Store for rackets
+- [x] added prices to store
+- [x] added container div to favorite html
 
  ## Wireframe
  ![wireframe](img/IMG_0182.jpeg)

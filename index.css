@@ -5,8 +5,6 @@ img {
     float: both;
 }
 
-
-
 h6 {
     padding-left: 17px
 }
@@ -51,7 +49,7 @@ ul.nav li.right {
 
 .flip-card {
     background-color: transparent;
-    width: 300px;
+    width: 450px;
     height: 300px;
     perspective: 1000px;
     float: both;
@@ -66,7 +64,8 @@ ul.nav li.right {
     text-align: center;
     transition: transform 0.6s;
     transform-style: preserve-3d;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+
 }
 
 .flip-card:hover .flip-card-inner {
