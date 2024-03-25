@@ -53,3 +53,8 @@ ul.nav li.right {
 aside {
     float: right;
 }
+
+body {
+    background-image: url("img/greystar.jpg");
+    background-size: cover;
+}

@@ -9,11 +9,14 @@ h6 {
     padding-left: 17px
 }
 
-body,
-{
-margin: 0;
+body {
+    margin: 0;
 }
 
+body {
+    background-image: url("img/backgrounddots.jpeg");
+    background-repeat: round;
+}
 
 ul.nav {
     list-style-type: none;
@@ -67,6 +70,7 @@ ul.nav li.right {
 
 
 }
+
 
 .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
