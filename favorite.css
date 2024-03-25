@@ -44,7 +44,9 @@ ul.nav li.right {
 }
 
 #fav1,
-#fav2 {
+#fav2,
+#fav3,
+#fav4 {
     border-radius: 0%;
 }
 
