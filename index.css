@@ -1,9 +1,12 @@
 div,
-img {
-    border-radius: 0%;
-    text-align: left;
-    float: both;
+img,
+
+{
+border-radius: 50%;
+text-align: left;
+float: both;
 }
+
 
 h6 {
     padding-left: 17px

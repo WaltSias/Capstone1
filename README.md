@@ -33,6 +33,7 @@ It contains four pages:
 - [x] Store for rackets
 - [x] added prices to store
 - [x] added container div to favorite html
+- [x] put cards in a grid 
 
  ## Wireframe
  ![wireframe](img/IMG_0182.jpeg)
@@ -51,3 +52,6 @@ Contact
 - [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat)
 - Robert McCreary - Classmate
 - Louis Perkins - Classmate
+- Desmon Garrison
+- Nicholas Smith
+- Completing this was a task. I had some time to overcome the grid, and I could still use some tweaks. 

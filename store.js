@@ -17,7 +17,7 @@ document.getElementById("price3").addEventListener("click", function () {
     this.style.width = "80px";
 });
 for (let i = 0; i < notSoldOut.length; i++) {
-    notSoldOut[i].style.color = "green";
+    notSoldOut[i].style.color = "red";
 
 }
 for (let i = 0; i < soldOut.length; i++) {
