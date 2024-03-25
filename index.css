@@ -1,20 +1,25 @@
 div,
-img {
-    border-radius: 50%;
-    text-align: left;
-    float: both;
+img,
+
+{
+border-radius: 50%;
+text-align: left;
+float: both;
 }
+
 
 h6 {
     padding-left: 17px
 }
 
-body,
-{
-margin: 0;
+body {
+    margin: 0;
 }
 
-main {}
+body {
+    background-image: url("img/backgrounddots.jpeg");
+    background-repeat: round;
+}
 
 ul.nav {
     list-style-type: none;
@@ -47,7 +52,50 @@ ul.nav li.right {
     float: right;
 }
 
-a {
-    font-size: smaller;
 
+.flip-card {
+    background-color: transparent;
+    width: 450px;
+    height: 300px;
+    perspective: 1000px;
+    float: both;
+    padding-left: 160px;
+
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+
+
+}
+
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.flip-card-front {
+    background-color: #bbb;
+    color: black;
+}
+
+.flip-card-back {
+    background-color: #2980b9;
+    color: white;
+    transform: rotateY(180deg);
+    font-size: 10px;
 }

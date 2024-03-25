@@ -42,3 +42,48 @@ ul.nav li a.active {
 ul.nav li.right {
     float: right;
 }
+
+#fav1,
+#fav2,
+#fav3,
+#fav4 {
+    border-radius: 0%;
+}
+
+aside {
+    float: right;
+}
+
+body {
+    background-image: url("img/greystar.jpg");
+    background-size: cover;
+}
+
+.grid-container {
+    border: 1px solid black;
+    column-count: 1;
+}
+
+.grid-container2 {
+    column-count: 2;
+}
+
+.item1 {
+    grid-column: 1;
+    grid-row: auto;
+}
+
+.item3 {
+    grid-column: 3;
+    grid-row: auto;
+}
+
+.item2 {
+    grid-column: 2;
+    grid-row: auto;
+}
+
+.item3 {
+    grid-column: 1;
+    grid-row: auto;
+}

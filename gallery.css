@@ -59,3 +59,14 @@ border {
     float: right;
     font-family: monospace;
 }
+
+#rio,
+#rio2,
+#tennis1 {
+    border-radius: 0%;
+}
+
+body {
+    background-image: url("img/backgrounddots.jpeg");
+    background-repeat: round;
+}

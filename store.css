@@ -42,3 +42,8 @@ ul.nav li a.active {
 ul.nav li.right {
     float: right;
 }
+
+body {
+    background-image: url("img/greystar.jpg");
+    background-size: cover;
+}
