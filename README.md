@@ -35,6 +35,11 @@ It contains four pages:
 - [x] added container div to favorite html
 - [x] put cards in a grid 
 
+## After Evaluation
+ - [x] Fixed errors in css
+ - [x] ID selector in CSS
+ - [x] If Statement in JS
+
  ## Wireframe
  ![wireframe](img/IMG_0182.jpeg)
 
@@ -54,4 +59,8 @@ Contact
 - Louis Perkins - Classmate
 - Desmon Garrison
 - Nicholas Smith
-- Completing this was a task. I had some time to overcome the grid, and I could still use some tweaks. 
+- Completing this was a task. I had some time to overcome the grid, and I could still use some tweaks.
+
+
+    ## After Evaluation: 
+    After Speaking with Josue, I realized where I had the typo on my css code, It was a mistype. Also not adding the "if statement" in JavaScript, and ID selector in CSS, was an oversight. If my memory serves me right, I actually had an ID selector and when I changed my "ipsum Lorem" on the index.html page, I took it out. Those things have been added and updated to the Capstone.
