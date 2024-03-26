@@ -1,5 +1,5 @@
-img {
-    border-radius: 50%;
+img div {
+    border-radius: 0%;
     text-align: left;
     float: both;
 }
@@ -25,9 +25,10 @@ ul.nav li {
 }
 
 ul.nav li a {
-    display: blo color: white;
+    display: block;
+    color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 8px 16px;
     text-decoration: none;
 }
 
@@ -65,7 +66,7 @@ body {
 }
 
 .grid-container2 {
-    column-count: 2;
+    column-count: 1;
 }
 
 .item1 {

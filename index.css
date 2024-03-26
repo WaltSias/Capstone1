@@ -1,10 +1,8 @@
 div,
-img,
-
-{
-border-radius: 50%;
-text-align: left;
-float: both;
+img {
+    border-radius: 00%;
+    text-align: left;
+    float: both;
 }
 
 
@@ -14,6 +12,10 @@ h6 {
 
 body {
     margin: 0;
+}
+
+#me3 {
+    text-align: center;
 }
 
 body {
@@ -34,9 +36,10 @@ ul.nav li {
 }
 
 ul.nav li a {
-    display: blo color: white;
+    display: block;
+    color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 8px 16px;
     text-decoration: none;
 }
 
